@@ -1,0 +1,15 @@
+{
+  "name": "whistler",
+  "version": "1.0.0",
+  "description": "❄️🏂❄️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "nightmare": "^2.10.0"
+  }
+}
